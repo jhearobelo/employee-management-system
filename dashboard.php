@@ -34,7 +34,7 @@ echo "<img src='uploads/" . $user['profile_picture'] . "' width='100' height='10
 <?php endif; ?>
     </nav>
     <div style="background-color:#e0e0e0; padding:10px;">
-        <h1>Online Bookstore Management System</h1>
+        <h1>Employee Management System</h1>
         <h3>Welcome Panel</h3>
         <p>This is a standard dashboard for our website project. You can manage your projects, view the library, and change your password.</p>
     </div>
